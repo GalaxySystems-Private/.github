@@ -1,4 +1,4 @@
-![](GalaxySystems.png)
+![](https://i.imgur.com/zpIKG7p_d.webp?maxwidth=1520&fidelity=grand)
 
 # 😎 Kdo jsme?
 
@@ -6,11 +6,11 @@
 
 # 💎 Specializace
 
-## - Tvorba pokročilých webových aplikací
-## - Kybernetická bezpečnost
-## - Networking 
-## - Webdesign
-## - Hosting
+### - Tvorba pokročilých webových aplikací
+### - Kybernetická bezpečnost
+### - Networking 
+### - Webdesign
+### - Hosting
 
 # 📜 Technologie
 
